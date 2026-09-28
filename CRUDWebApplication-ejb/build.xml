@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="CRUDWebApplication-ejb" default="default" basedir="." xmlns:ejbjarproject="http://www.netbeans.org/ns/j2ee-ejbjarproject/3">
+    <description>Builds, tests, and runs the project CRUDWebApplication-ejb.</description>
+    <import file="nbproject/build-impl.xml"/>
+</project>

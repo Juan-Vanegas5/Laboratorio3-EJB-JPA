@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="CRUDWebApplication" default="default" basedir="." xmlns:ear="http://www.netbeans.org/ns/j2ee-earproject/2">
+    <description>Builds, tests, and runs the project CRUDWebApplication.</description>
+    <import file="nbproject/build-impl.xml"/>
+</project>
